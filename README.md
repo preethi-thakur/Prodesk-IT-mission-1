@@ -77,5 +77,6 @@ This is a beginner-friendly project, but it reflects my understanding of buildin
 Feel free to explore, use, or improve it!
 If you like this project, consider giving it a star!
 
+<img width="1329" height="588" alt="image" src="https://github.com/user-attachments/assets/001e4ac2-84d9-4a97-8c75-f4095fe0ee80" />
 
 
