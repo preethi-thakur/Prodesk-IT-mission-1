@@ -77,6 +77,18 @@ This is a beginner-friendly project, but it reflects my understanding of buildin
 Feel free to explore, use, or improve it!
 If you like this project, consider giving it a star!
 
+##home page
 <img width="1329" height="588" alt="image" src="https://github.com/user-attachments/assets/001e4ac2-84d9-4a97-8c75-f4095fe0ee80" />
 
+##services page
+<img width="1331" height="590" alt="image" src="https://github.com/user-attachments/assets/d82bc322-0c2c-4c9f-b973-9181dbd21d9e" />
+
+##about page
+<img width="1333" height="592" alt="image" src="https://github.com/user-attachments/assets/1c431875-5c53-4564-83d1-5ac9363b3105" />
+
+##contact
+<img width="1330" height="587" alt="image" src="https://github.com/user-attachments/assets/db8bee43-42b0-4a1d-8b5e-bb6cae1aea3a" />
+
+##footer
+<img width="1332" height="590" alt="image" src="https://github.com/user-attachments/assets/506b970b-284f-41fc-990b-03f486b85a68" />
 
